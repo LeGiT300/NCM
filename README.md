@@ -13,7 +13,7 @@ This project is a simple face detection and recognition application built using 
 - [License](#license)
 
 ## Introduction
-The Face Detection Project is a computer vision application that can detect and recognize faces in real-time video from a webcam. It uses the Face Recognition library to encode the faces and compare them to a known face, which is stored in the `img/meeee.jpg` file.
+The Face Detection Project is a computer vision application that can detect and recognize faces in real-time video from a webcam. It uses the Face Recognition library to encode the faces and compare them to a known face, which should be in the `img/` folder.
 
 ## Features
 - Real-time face detection and recognition
