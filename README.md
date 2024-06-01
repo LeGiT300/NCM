@@ -1,5 +1,3 @@
-Sure, here's the updated README with more details on how to achieve the face detection project:
-
 # Face Detection Project
 
 This project is a simple face detection and recognition application built using Python, OpenCV, and the Face Recognition library.
