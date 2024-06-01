@@ -30,7 +30,8 @@ To run the Face Detection Project, you'll need to have the following software in
 You can install the required libraries using pip:
 
 ```
-pip install opencv-python face_recognition
+pip install opencv-python
+pip install face_recognition
 ```
 
 ## Usage
