@@ -54,7 +54,7 @@ python face_detection.py
 6. Finally, it compares the detected face encodings to the known face encoding using the `face_recognition.compare_faces()` function, and displays the name of the recognized person (or "Unknown" if not recognized) on the video feed.
 
 ## Contributing
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/face-detection-project).
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/LeGiT300/NCM/).
 
 ## Credits
 - [OpenCV](https://opencv.org/) - The open-source computer vision library used for image and video processing.
