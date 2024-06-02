@@ -3,7 +3,7 @@ import face_recognition as face
 
 cap = cv.VideoCapture(0)
 
-known_image = face.load_image_file('img/meeee.jpg')
+known_image = face.load_image_file('..img/[your_picture.jpg]')
 known_encodings = face.face_encodings(known_image)[0]
 known_name = 'Sensei'
 
